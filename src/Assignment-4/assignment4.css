@@ -70,6 +70,7 @@ nav li:hover {
     display: inline-block;
     text-align: center;
     vertical-align: top;
+    padding-left: 15px;
     margin: 0 10px;
 }
 .three-col h3 {
